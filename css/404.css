@@ -30,6 +30,7 @@ img{
     margin: 40px 0;
     cursor: pointer;
     font-weight: bold;
+    text-decoration: none;
 }
 
 @media screen and (min-width: 920px) {
